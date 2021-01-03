@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>This is HTMl form tutorial</h2>
+    <form action="backend.php">
+        <label for="name">Name</label>
+        <div>
+            <input type="text" name="myName" id="name">
+        </div><br>
+        <label for="role">Role</label>
+        <div>
+            <input type="text" name="myRole" id="role">
+        </div><br>
+        <label for="email">Email</label>
+        <div>
+            <input type="text" name="myEmail" id="email">
+        </div><br>
+        <label for="bonus">Bonus</label>
+        <div>
+            <input type="number" name="myBonus" id="Bonus">
+        </div><br>
+        <div>
+          Are eligible?: <input type="checkbox" name="myEligibility" checked>
+        </div><br>
+        <div>
+         Gender : Male <input type="radio" name="myGender" id="gender">Female <input type="radio" name="myGender" id="gender">
+         Other <input type="radio" name="myGender" id="gender">
+        </div><br>
+        <label for="date">Date</label>
+        <div>
+            <input type="date" name="myDate" id="date">
+        </div><br>
+        <label for="car">Car</label>
+        <div>
+            <select name="Mycar" id="car">
+                <option value="ind" selected>indica </option>
+                <option value="Swf">Swift</option>
+            </select>
+        </div>
+        <br>
+        <div>
+         Write about yourself <br> <textarea name="myText"  cols="30" rows="10"></textarea>
+        </div>
+        <br>
+        <div>
+           <input type="submit" value="Submit Now">
+           <input type="reset" value="Reset Now">
+        </div>
+
+    </form>
+</body>
+
+</html>
