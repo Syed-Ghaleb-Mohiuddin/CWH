@@ -4,7 +4,9 @@
 }
 body {
   align-content: center;
+  align-items: center;
   background-color: #a9c5ea;
+  overflow: hidden;
 }
 .container {
   background-color: cornflowerblue;
