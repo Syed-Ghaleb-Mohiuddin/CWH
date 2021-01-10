@@ -13,12 +13,11 @@ p {
   letter-spacing: 3px;
   color: blue;
 }
-span{
-    font-family: slk;
-    font: outline;
-    line-height: 30px;
-    font-weight: bolder;
-    letter-spacing: 3px;
-    color: red;
-  }
+span {
+  font-family: slk;
+  font: outline;
+  line-height: 30px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+  color: red;
 }
