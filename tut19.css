@@ -1,0 +1,30 @@
+#firstpara {
+  width: 500px;
+  height: 50px;
+  border-width: 2px;
+  background-color: blue;
+  border-radius: 13px;
+  border-color: darkolivegreen;
+  border-style: solid;
+}
+#secondpara {
+  width: 500px;
+  height: 50px;
+  background-color: red;
+  border-width: 2px;
+  border-top: royalblue;
+  border-bottom: rgb(225, 65, 65);
+  border-left: rgb(65, 225, 126);
+  border-right: rgb(65, 225, 126);
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+#thirdpara {
+  width: 500px;
+  height: 50px;
+  background-image: url(https://images.idgesg.net/images/article/2019/05/cso_best_security_software_best_ideas_best_technology_lightbulb_on_horizon_of_circuit_board_landscape_with_abstract_digital_connective_technology_atmosphere_ideas_innovation_creativity_by_peshkov_gettyimages-965785212_3x2_2400x1600-100797318-large.jpg);
+  border: 5px solid blue;
+  border-radius: 3px;
+}
