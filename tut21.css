@@ -1,0 +1,39 @@
+* {
+}
+body {
+}
+.container {
+  border: 5px solid rgb(209, 212, 243);
+  background-color: rgb(253, 207, 207);
+  margin: 20px auto;
+  width: 900px;
+}
+#fruits {
+  border: 3px solid rgb(210, 253, 210);
+  padding: 10px 10px;
+  float: left;
+  width: 40%;
+  margin: 10px;
+}
+#Vegetables {
+  border: 3px solid rgb(210, 253, 210);
+  padding: 10px 10px;
+  float: left;
+  width: 40%;
+  background-color: rgb(176, 176, 180);
+  margin: 10px;
+}
+#Electronic {
+  border: 3px solid rgb(210, 253, 210);
+  padding: 10px 10px;
+  clear: both;
+  background-color: rgb(235, 211, 251);
+  margin: 10px;
+}
+#stationary{
+    border: 3px solid rgb(210, 253, 210);
+    padding: 10px 10px;
+    background-color: rgb(255, 168, 243);
+    margin: 10px;
+  }
+}
